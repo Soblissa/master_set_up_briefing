@@ -64,20 +64,23 @@ persönliche Alltagsaufgaben zu bewälten
 ## 4) Anforderungen (Muss / Soll / Kann)
 
 ### Muss (ohne das geht es nicht)
-- ICH muss die Technik so verstehen, das ich sie verkakufen kann und Torsten Sagen kann, was er technisch umsetzen soll
-- Ich habe eigene Agenten für bestimmte Schwerpunkte
-- 
-- 
+- Ich muss die Technik so verstehen, dass ich sie verkaufen kann und Torsten klare technische Vorgaben geben kann
+- Ich brauche eigene Agenten für bestimmte Schwerpunkte
+- Anfängerfreundliche, klare Begleitung ohne Technik-Blabla
+- Klare Arbeitsteilung zwischen Sarah (Beratung/Analyse/Übersetzung) und Torsten (Technik/Implementierung)
+- Fokus auf reale Ergebnisse durch Pilotprojekte (ILA + erster bezahlter Firmen-Case)
+- Transparente Priorisierung: Was wird jetzt gemacht, was später, was bewusst nicht
 
 ### Soll (wichtig, aber nicht kritisch)
-- 
-- 
-- 
+- Teilautomatisierung von wiederkehrenden Aufgaben (Zusammenfassungen, Nachverfolgung, Erinnerungen)
+- Regelmäßige Review-Routine (z. B. 1x wöchentlich: Stand, Blocker, nächste Schritte)
+- Einfache Templates/Checklisten für Angebots-, Analyse- und Projektarbeit
+- Struktur für private und berufliche Nutzung parallel, ohne Chaos
 
 ### Kann (nice to have)
-- 
-- 
-- 
+- Spezialisierte Agenten für einzelne Rollen (Recherche, Struktur, Qualitätssicherung)
+- Dashboard-ähnliche Übersicht über aktive Themen und Status
+- Erweiterte Auswertungen (z. B. Zeitgewinn, Umsatzbeitrag, Qualitätsverbesserung)
 
 ---
 
@@ -85,17 +88,16 @@ persönliche Alltagsaufgaben zu bewälten
 
 > Beispiel: Recherche, Zusammenfassen, Erinnern, Strukturieren, Automatisieren, Schreiben
 
-- Skill 1: Prokelkt ila: ZUgriff auf Figma / weitere Kollegen müssen über Agenten eingebunden werden (dieses Projekt hat nach dem Aufsetzen der Agentenstruktur Priorität)
-- Skill 2: Ich möchte, das Turiya meine recht HAnd ist, und ZUgriff hat auf alle anderen Agenten und Ergebnisse. Ich denke, sie sollte ein leistungsstarkes Modell haben und ZUgriff auf Internet
-- Skill 3: Ich möchte einee Agentin für den tägöichen BEdarf, fü+r schnelle Recherche, Reiseplnaungen, Fragen aller Art. Die Ergebnisse sollen aber strukturiert dokumentiert werden. ZUgriff auf das Internet
-- Skill 4:
-- Skill 5:
+- Skill 1: Projekt ILA: Zugriff auf Figma; weitere Kollegen sollen über Agenten eingebunden werden (nach Agenten-Setup priorisiert)
+- Skill 2: Turyia als „rechte Hand“ mit Zugriff auf andere Agenten und Ergebnisse; leistungsstarkes Modell + Internetzugriff
+- Skill 3: Eigene Agentin für den täglichen Bedarf (schnelle Recherche, Reiseplanung, Fragen aller Art) mit strukturierter Dokumentation
+- Skill 4: Komplexe Technik in klare, kundentaugliche Sprache übersetzen
+- Skill 5: Projektstruktur + Wiedervorlage/Nachverfolgung stabil führen
 
 ### Bei welchen Tasks ich heute am meisten Zeit verliere
-- Bei der ERstellung von Texten und Präsentationen
-- Bei der Beschaffung von nformationen, die ich dann nicht wiederfinde oder die nicht valide sind
-- 
-- 
+- Bei der Erstellung von Texten und Präsentationen
+- Bei der Beschaffung von Informationen, die ich später nicht wiederfinde oder die nicht valide sind
+- Durch zu viele parallele Themen ohne harte Priorisierung
 
 ---
 
@@ -148,48 +150,48 @@ Müssen wir drüber sprechen
 ## 8) Technische Rahmenbedingungen
 
 ### Geräte
-Aktuell nutze ich ein icrosoft Surface Laptop 7th Edition, denke aber über den Erwerb eines MCBooks mit M5 Speicher nach (muss entschieden werden)
-- 
+- Aktuell: Microsoft Surface Laptop 7th Edition (Windows)
+- In Prüfung: möglicher Erwerb eines MacBook (M5), Entscheidung offen
 
 ### Tools / Plattformen (die ich nutze)
-Office365
-Miro
-Figma
-Github
-Facebook / Instagram / Tiktok
-AzureDevops (nur auf abgekapselten Dienstrechner)
-- 
-- 
+- OpenClaw
+- GitHub
+- Office365
+- Miro
+- Figma
+- Facebook / Instagram / TikTok
+- Azure DevOps (nur auf abgekapseltem Dienstrechner)
 
 ### Accounts / Zugänge (nur Kategorien, keine Passwörter)
-Uff. Unzählige. Konsolidieren wir in einem gesonderten Task
-- 
+- Viele bestehende Accounts; Konsolidierung in separatem Task
+- GitHub-Account (Owner: Soblissa)
+- Messaging-/Chat-Kanäle
 
 ### Budgetrahmen (falls relevant)
-- kein Budgetrahmen
+- Aktuell kein fixer Budgetrahmen; Investitionen nutzenorientiert
 
 ### Technische Grenzen / No-Gos
-- keine NoGos außer die unter 7
-- 
+- Keine No-Gos außer den Regeln unter Abschnitt 7
+- Keine unnötige technische Komplexität ohne klaren Nutzen
 
 ---
 
 ## 9) Prioritäten für die nächsten 30 Tage
 
 ### Top 3 Ergebnisse
-1. Pilotprojekt ila (siehe aktuelle Präsentation im ila repo) erfolgreich umsetzen
-2. Meine Skillmatrix erhöhen
-3. Erste Grundlagen für Projekt Franks Klaus
+1. Pilotprojekt ILA (siehe Präsentation im ILA-Repo) erfolgreich starten und erste Ergebnisse dokumentieren
+2. Eigene Skillmatrix im KI-Management sichtbar erhöhen
+3. Erste belastbare Grundlagen für „Franks Klaus“ / Bauträger-Case erstellen
 
 ### Top 3 Risiken / Blocker
-1. Ich habe soviel mit meinem Job zu tun, das ich hier zu wenig ZEit finde
-2. 
-3. 
+1. Zu wenig Zeit durch aktuelle Jobbelastung
+2. Zu viele parallele Themen ohne harte Priorisierung
+3. Unklare Übergaben zwischen Strategie/Beratung und Technik
 
 ### Was als Erstes umgesetzt werden soll (Reihenfolge)
-1. Dich an das für die für dich definierten Zwecke beste und leistungsstärkste Modell anzuschließen
-2. Das Setup für ila klären und aufsetzen
-3. 
+1. Briefing finalisieren (offene Felder schließen) und 30-Tage-Roadmap fixieren
+2. Modell-Entscheidung und Modell-Anbindung für Turyia treffen
+3. Setup für ILA konkret aufsetzen und in die operative Umsetzung gehen
 
 ---
 
