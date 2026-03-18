@@ -47,27 +47,38 @@ persönliche Alltagsaufgaben zu bewälten
 > Pro Projekt kurz: Ziel, Status, Deadline, Wichtigkeit
 
 ### 3.1 Aktiv
-- **Projektname:**
-  - Ziel:
-  - Status:
-  - Deadline:
-  - Wichtigkeit (hoch/mittel/niedrig):
+- **Projektname:** Setup-Blueprint (Endzustand + Architektur)
+  - Ziel: Alle Themen, Anforderungen, Skills und Wünsche so strukturieren, dass daraus ein klares Zielbild und Umsetzungsplan entsteht.
+  - Status: Gestartet (Vorlage vorhanden, Inhalte werden gesammelt)
+  - Deadline: offen
+  - Wichtigkeit (hoch/mittel/niedrig): hoch
 
-- **Projektname:**
-  - Ziel:
-  - Status:
-  - Deadline:
-  - Wichtigkeit (hoch/mittel/niedrig):
+- **Projektname:** GitHub-Arbeitsstruktur für Sarah
+  - Ziel: Zentrale, einfache Arbeitsbasis in GitHub schaffen (Briefing + Wiedervorlage), damit Zusammenarbeit transparent und dauerhaft wird.
+  - Status: In Umsetzung (Repos erstellt, Erstinhalte gepusht)
+  - Deadline: offen
+  - Wichtigkeit (hoch/mittel/niedrig): hoch
+
+- **Projektname:** Wissensaufbau „Server & Workflow verstehen“
+  - Ziel: Sarah soll sicher verstehen, was „lokal“, „Server“, „Repo“, „Push“ praktisch bedeuten.
+  - Status: Offen / laufend
+  - Deadline: offen
+  - Wichtigkeit (hoch/mittel/niedrig): hoch
 
 ### 3.2 Geplant
-- **Projektname:**
-  - Ziel:
-  - Startwunsch:
-  - Wichtigkeit:
+- **Projektname:** Modell-Anbindung (zweites Modell integrieren)
+  - Ziel: Turyia um weiteres Modell erweitern und sinnvoll im Alltag nutzbar machen.
+  - Startwunsch: nach Abschluss des Setup-Blueprints
+  - Wichtigkeit: hoch
+
+- **Projektname:** Agenten-Armee aufbauen (mehrere spezialisierte Agenten)
+  - Ziel: Rollen verteilen (z. B. Recherche, Technik, Organisation), damit Aufgaben parallel und verlässlich laufen.
+  - Startwunsch: nach stabiler Modell-Anbindung
+  - Wichtigkeit: hoch
 
 ### 3.3 Später
-- 
-- 
+- Feinschliff-Automationen (regelmäßige Routinen, Erinnerungen, Qualitätschecks)
+- Erweiterte Rollen-/Rechte- und Kollaborationsstruktur (z. B. Torsten als Mitwirkender je Repo)
 
 ---
 
