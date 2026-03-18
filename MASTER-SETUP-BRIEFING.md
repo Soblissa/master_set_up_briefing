@@ -47,45 +47,25 @@ persönliche Alltagsaufgaben zu bewälten
 > Pro Projekt kurz: Ziel, Status, Deadline, Wichtigkeit
 
 ### 3.1 Aktiv
-- **Projektname:** Setup-Blueprint (Endzustand + Architektur)
-  - Ziel: Alle Themen, Anforderungen, Skills und Wünsche so strukturieren, dass daraus ein klares Zielbild und Umsetzungsplan entsteht.
-  - Status: Gestartet (Vorlage vorhanden, Inhalte werden gesammelt)
-  - Deadline: offen
-  - Wichtigkeit (hoch/mittel/niedrig): hoch
-
-- **Projektname:** GitHub-Arbeitsstruktur für Sarah
-  - Ziel: Zentrale, einfache Arbeitsbasis in GitHub schaffen (Briefing + Wiedervorlage), damit Zusammenarbeit transparent und dauerhaft wird.
-  - Status: In Umsetzung (Repos erstellt, Erstinhalte gepusht)
-  - Deadline: offen
-  - Wichtigkeit (hoch/mittel/niedrig): hoch
-
-- **Projektname:** Wissensaufbau „Server & Workflow verstehen“
-  - Ziel: Sarah soll sicher verstehen, was „lokal“, „Server“, „Repo“, „Push“ praktisch bedeuten.
-  - Status: Offen / laufend
-  - Deadline: offen
-  - Wichtigkeit (hoch/mittel/niedrig): hoch
-
-### 3.2 Geplant
-- **Projektname:** Modell-Anbindung (zweites Modell integrieren)
-  - Ziel: Turyia um weiteres Modell erweitern und sinnvoll im Alltag nutzbar machen.
-  - Startwunsch: nach Abschluss des Setup-Blueprints
+- **Projektname:** ila
+  - Ziel: siehe Repo ila
+  - Status:offen
+  - Deadline: Ende April
   - Wichtigkeit: hoch
 
-- **Projektname:** Agenten-Armee aufbauen (mehrere spezialisierte Agenten)
-  - Ziel: Rollen verteilen (z. B. Recherche, Technik, Organisation), damit Aufgaben parallel und verlässlich laufen.
-  - Startwunsch: nach stabiler Modell-Anbindung
-  - Wichtigkeit: hoch
-
-### 3.3 Später
-- Feinschliff-Automationen (regelmäßige Routinen, Erinnerungen, Qualitätschecks)
-- Erweiterte Rollen-/Rechte- und Kollaborationsstruktur (z. B. Torsten als Mitwirkender je Repo)
-
+- **Projektname:** Franks Klaus
+- Franks Bauträgerfirma ist optmiert (Zum Beispiel ist ein Agent installiert, der die Anhänge seiner Emails automatisch in die entsprechenden Ordner einsortiert
+- Status: offen
+- Deadline unbekannt
+- Wichtigkeit mittel
+ 
 ---
 
 ## 4) Anforderungen (Muss / Soll / Kann)
 
 ### Muss (ohne das geht es nicht)
-- 
+- ICH muss die Technik so verstehen, das ich sie verkakufen kann und Torsten Sagen kann, was er technisch umsetzen soll
+- Ich habe eigene Agenten für bestimmte Schwerpunkte
 - 
 - 
 
@@ -105,14 +85,15 @@ persönliche Alltagsaufgaben zu bewälten
 
 > Beispiel: Recherche, Zusammenfassen, Erinnern, Strukturieren, Automatisieren, Schreiben
 
-- Skill 1:
-- Skill 2:
-- Skill 3:
+- Skill 1: Prokelkt ila: ZUgriff auf Figma / weitere Kollegen müssen über Agenten eingebunden werden (dieses Projekt hat nach dem Aufsetzen der Agentenstruktur Priorität)
+- Skill 2: Ich möchte, das Turiya meine recht HAnd ist, und ZUgriff hat auf alle anderen Agenten und Ergebnisse. Ich denke, sie sollte ein leistungsstarkes Modell haben und ZUgriff auf Internet
+- Skill 3: Ich möchte einee Agentin für den tägöichen BEdarf, fü+r schnelle Recherche, Reiseplnaungen, Fragen aller Art. Die Ergebnisse sollen aber strukturiert dokumentiert werden. ZUgriff auf das Internet
 - Skill 4:
 - Skill 5:
 
 ### Bei welchen Tasks ich heute am meisten Zeit verliere
-- 
+- Bei der ERstellung von Texten und Präsentationen
+- Bei der Beschaffung von nformationen, die ich dann nicht wiederfinde oder die nicht valide sind
 - 
 - 
 
@@ -121,19 +102,21 @@ persönliche Alltagsaufgaben zu bewälten
 ## 6) Wünsche an die Zusammenarbeit mit Turyia
 
 ### Ton & Stil
-- 
+- Ton und Stil kann bleiben, wie es ist, nur das Modell will ich ändern
 
 ### Wie detailliert Erklärungen sein sollen
-- 
+- Die Erklärungen sollen immer so einfach wie möglich und so umfassend wie nötig sein, gleichzeitig Präzise und sehr überprüft. ZU Not frage ich nach
 
 ### Wie proaktiv ich unterstützt werden möchte
+Kann ich derzeit nich nicht sage
 - 
 
 ### Wie oft Rückfragen okay sind
+so oft es nötig ist
 - 
 
 ### Was mich nervt (bitte vermeiden)
-- 
+- Leistunsschwäche und Vergesslichkeit
 - 
 
 ---
@@ -141,17 +124,23 @@ persönliche Alltagsaufgaben zu bewälten
 ## 7) Grenzen & Sicherheitsregeln
 
 ### Was Turyia niemals ohne Rückfrage tun soll
+Ohne Erlaubnis außerhalb des Netzwerkes kommunizieren (also mit anderen Agenten nach Absprache)
+Keine E-MAils verschicken
+Keine Zahlungen vornehmen
+Keine Zahlungen autorisieren
+keine persönlichen Daten rausgeben
+
 - 
 - 
 - 
 
 ### Was Turyia ohne Rückfrage tun darf
-- 
+- was immer sie im Rahmen ihrer Aufgaben fü+r nötig hält, sofern 7 eingehalgten wird
 - 
 - 
 
 ### Datenschutz / Privatsphäre (wichtig)
-- 
+Müssen wir drüber sprechen
 - 
 
 ---
@@ -159,22 +148,28 @@ persönliche Alltagsaufgaben zu bewälten
 ## 8) Technische Rahmenbedingungen
 
 ### Geräte
+Aktuell nutze ich ein icrosoft Surface Laptop 7th Edition, denke aber über den Erwerb eines MCBooks mit M5 Speicher nach (muss entschieden werden)
 - 
 
 ### Tools / Plattformen (die ich nutze)
-- 
+Office365
+Miro
+Figma
+Github
+Facebook / Instagram / Tiktok
+AzureDevops (nur auf abgekapselten Dienstrechner)
 - 
 - 
 
 ### Accounts / Zugänge (nur Kategorien, keine Passwörter)
-- 
+Uff. Unzählige. Konsolidieren wir in einem gesonderten Task
 - 
 
 ### Budgetrahmen (falls relevant)
-- 
+- kein Budgetrahmen
 
 ### Technische Grenzen / No-Gos
-- 
+- keine NoGos außer die unter 7
 - 
 
 ---
@@ -182,18 +177,18 @@ persönliche Alltagsaufgaben zu bewälten
 ## 9) Prioritäten für die nächsten 30 Tage
 
 ### Top 3 Ergebnisse
-1. 
-2. 
-3. 
+1. Pilotprojekt ila (siehe aktuelle Präsentation im ila repo) erfolgreich umsetzen
+2. Meine Skillmatrix erhöhen
+3. Erste Grundlagen für Projekt Franks Klaus
 
 ### Top 3 Risiken / Blocker
-1. 
+1. Ich habe soviel mit meinem Job zu tun, das ich hier zu wenig ZEit finde
 2. 
 3. 
 
 ### Was als Erstes umgesetzt werden soll (Reihenfolge)
-1. 
-2. 
+1. Dich an das für die für dich definierten Zwecke beste und leistungsstärkste Modell anzuschließen
+2. Das Setup für ila klären und aufsetzen
 3. 
 
 ---
